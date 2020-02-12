@@ -1,0 +1,103 @@
+html {
+	scroll-behavior: smooth;
+}
+
+.jumbotron {
+  height: 80vh;
+  min-height: 200px;
+  background-color: black;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("./img/FondoHeader.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: rgb(0, 0, 0);
+}
+#Titulo{
+  margin-top: 5%;
+}
+
+#TituloPropiedad{
+  font-size: 80px;
+}
+
+#ImagenServicio{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin-top: 7%;
+}
+
+#Servicios{
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#TituloServicio{
+  font-size: 25px;
+  margin-top: 5%;
+}
+
+#botones{
+  margin-top: 1%;
+}
+
+#seccionservicios{
+  min-height: 480px;
+  margin-top: 3%;
+}
+
+#ImagenModalServicio{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+#seccionnosotros{
+  min-height: 900px;
+  border-bottom: 2px solid gray;
+  margin-top: 5%;
+}
+
+#DescripcionNosotros{
+  margin-top: 5%;
+}
+
+
+
+#DescripcionNosotros2{
+  margin-top: 10%;
+}
+
+#FotoJoven{
+  max-height: 380px;
+}
+
+#TextoNosotros{
+  font-size: 23px;
+}
+
+.carousel{
+  max-height: 900px;
+}
+
+#FondoHeader{
+  max-height: 400px;
+}
+
+#FondoWeb{
+  background-image: url("./img/FondoWeb.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #f7f7f7;
+}
+
+#FondoModal{
+  background-image: url("./img/FondoWeb.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #f7f7f7;
+}
